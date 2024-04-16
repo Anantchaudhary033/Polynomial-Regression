@@ -6,6 +6,8 @@ This method allows capturing more complex patterns in the data compared to tradi
 # Problem Statement
 This dataset contains information on insurance charges along with various demographic and lifestyle factors of individuals. The dataset aims to explore the relationship between these factors and insurance expenses using polynomial regression.
 
+The dataset encompasses essential demographic and lifestyle attributes of insured individuals alongside their respective insurance expenses.
+
 # Variables
 # Independent variables-
 
