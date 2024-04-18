@@ -23,7 +23,7 @@ The dataset encompasses essential demographic and lifestyle attributes of insure
 
 6.region: Categorical variable representing the residential area of the insured individual.
 
-# Dpendent variable-
+# Dependent variable-
 
 expenses: Continuous variable representing the insurance charges incurred by the individual.
 
